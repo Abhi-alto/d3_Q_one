@@ -5,8 +5,8 @@ if (r == 1)
 {
     Console.WriteLine("Prsent");
     int WaPhr = 20;
-    int F_DaHr = 8;
-    int da_wa = WaPhr * F_DaHr;
+    int P_DaHr = 4;
+    int da_wa = WaPhr * P_DaHr;
     Console.WriteLine("Daily wage of the employee is = " + da_wa);
 }
 else
